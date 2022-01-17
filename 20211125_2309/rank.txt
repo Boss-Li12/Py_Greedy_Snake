@@ -1,0 +1,5 @@
+1 cool1 160
+2 cool 140
+3 superman 100
+4 ceo 90
+5 lucy 90

@@ -1,0 +1,5 @@
+1 superman 100
+2 ceo 90
+3 Bob 50
+4 test3 10
+5 test1 0
